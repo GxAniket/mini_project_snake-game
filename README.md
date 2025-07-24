@@ -12,7 +12,7 @@ A simple classic Snake Game made using Python and Pygame.
 ---
 
 ## 📂 Project Structure
-
+<pre>
 snake-game/
 ├── snake.py
 ├── assets/
@@ -21,7 +21,7 @@ snake-game/
 │ └── background-music.mp3 # Background sound
 ├── README.md
 └── LICENSE
-
+</pre>
 ---
 
 ## 📸 Screenshots
